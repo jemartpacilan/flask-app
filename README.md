@@ -2,28 +2,19 @@
 
 Python/Flask Backend Task by Irithm
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+# Requirements
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-Requirements:
 - [Docker][docker]
 - [Python][python] (>= 3.7)
-- [Git][git]
+```
+
+## Installation
+
+Use this command at the project to install the dependencies and start up the project
+
+```bash
+./up.sh
+```
 
 ## Usage
 
