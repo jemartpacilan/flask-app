@@ -33,6 +33,11 @@ Print logs
 ./logs.sh
 ```
 
+Run all tests
+```
+pytest
+```
+
 ## Open Endpoints
 
 Open endpoints require no Authentication.
@@ -104,4 +109,6 @@ Models and relationship
 ## What's next? (Future Improvements)
 
 ```sh
+* Improve permissions and roles
+* Add more tests for the resources
 ```
