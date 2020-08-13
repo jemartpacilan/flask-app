@@ -61,8 +61,6 @@ Models and relationship
 ![ERD](erd.png)
 
 ## Project Structure
---------
-
 ```sh
 ├── config.py
 ├── conftest.py
